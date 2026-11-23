@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.Form1.resources
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.Properties.Resources.resources
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\bin\Debug\Calvculadora.exe.config
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\bin\Debug\Calvculadora.exe
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\bin\Debug\Calvculadora.pdb
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.exe
+C:\Users\USER\source\repos\Calvculadora\Calvculadora\obj\Debug\Calvculadora.pdb
